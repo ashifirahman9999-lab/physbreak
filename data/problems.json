@@ -1,0 +1,2794 @@
+[
+ {
+  "id": "pendulum-L0-000",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 2.05 m is released from rest at an angle of 5.1 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.8736733437733126,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.8722503775415786,
+  "params": {
+   "L": 2.05,
+   "amp_deg": 5.1
+  }
+ },
+ {
+  "id": "pendulum-L0-001",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 2.75 m is released from rest at an angle of 6.8 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.329616236238022,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.326685242175452,
+  "params": {
+   "L": 2.75,
+   "amp_deg": 6.8
+  }
+ },
+ {
+  "id": "pendulum-L0-002",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 1.29 m is released from rest at an angle of 3.9 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.279113725901588,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.2784537630639097,
+  "params": {
+   "L": 1.29,
+   "amp_deg": 3.9
+  }
+ },
+ {
+  "id": "pendulum-L0-003",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 2.46 m is released from rest at an angle of 3.5 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.14712661229825,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.146392645164505,
+  "params": {
+   "L": 2.46,
+   "amp_deg": 3.5
+  }
+ },
+ {
+  "id": "pendulum-L0-004",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 1.85 m is released from rest at an angle of 5.8 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.730294225506534,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.728545679624267,
+  "params": {
+   "L": 1.85,
+   "amp_deg": 5.8
+  }
+ },
+ {
+  "id": "pendulum-L0-005",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 2.27 m is released from rest at an angle of 5.7 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.0243148459730165,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.02244421078841,
+  "params": {
+   "L": 2.27,
+   "amp_deg": 5.7
+  }
+ },
+ {
+  "id": "pendulum-L0-006",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 2.84 m is released from rest at an angle of 2.9 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.3812250373660437,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.3806836613293343,
+  "params": {
+   "L": 2.84,
+   "amp_deg": 2.9
+  }
+ },
+ {
+  "id": "pendulum-L0-007",
+  "family": "pendulum",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A simple pendulum of length 0.722 m is released from rest at an angle of 4.4 degrees from the vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.7051950504416011,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.704566556877222,
+  "params": {
+   "L": 0.722,
+   "amp_deg": 4.4
+  }
+ },
+ {
+  "id": "pendulum-L1-000",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 2.86 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 12.2 spans per tick squared. The bead is nudged aside so the rod makes 7.2 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.045171646815161,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.0421664296911057,
+  "params": {
+   "L": 2.86,
+   "g": 12.2,
+   "amp_deg": 7.2
+  }
+ },
+ {
+  "id": "pendulum-L1-001",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 1.1 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 8.07 spans per tick squared. The bead is nudged aside so the rod makes 7.0 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.3219066241937623,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.3197407069132066,
+  "params": {
+   "L": 1.1,
+   "g": 8.07,
+   "amp_deg": 7.0
+  }
+ },
+ {
+  "id": "pendulum-L1-002",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 4.75 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 11.3 spans per tick squared. The bead is nudged aside so the rod makes 5.0 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.075624847393956,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.07368507066133,
+  "params": {
+   "L": 4.75,
+   "g": 11.3,
+   "amp_deg": 5.0
+  }
+ },
+ {
+  "id": "pendulum-L1-003",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 2.48 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 6.64 spans per tick squared. The bead is nudged aside so the rod makes 4.0 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.8410855457142548,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.839915513840728,
+  "params": {
+   "L": 2.48,
+   "g": 6.64,
+   "amp_deg": 4.0
+  }
+ },
+ {
+  "id": "pendulum-L1-004",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 3.4 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 8.21 spans per tick squared. The bead is nudged aside so the rod makes 6.5 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.046664536865711,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.043409697258003,
+  "params": {
+   "L": 3.4,
+   "g": 8.21,
+   "amp_deg": 6.5
+  }
+ },
+ {
+  "id": "pendulum-L1-005",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 2.11 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 11.6 spans per tick squared. The bead is nudged aside so the rod makes 6.1 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.681636188227784,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.679736559768165,
+  "params": {
+   "L": 2.11,
+   "g": 11.6,
+   "amp_deg": 6.1
+  }
+ },
+ {
+  "id": "pendulum-L1-006",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 3.28 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 8.09 spans per tick squared. The bead is nudged aside so the rod makes 3.2 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.001540384276872,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.0007602760524295,
+  "params": {
+   "L": 3.28,
+   "g": 8.09,
+   "amp_deg": 3.2
+  }
+ },
+ {
+  "id": "pendulum-L1-007",
+  "family": "pendulum",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A small bead is fixed to the end of a light rigid rod of length 4.44 spans. The other end of the rod is on a frictionless pivot, and the bead sits in a uniform downward pull of strength 3.88 spans per tick squared. The bead is nudged aside so the rod makes 2.7 degrees with the direction of the pull, then let go. How many ticks pass before the bead first returns to its release point?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 6.72226719032307,
+  "unit": "ticks",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 6.721334208864664,
+  "params": {
+   "L": 4.44,
+   "g": 3.88,
+   "amp_deg": 2.7
+  }
+ },
+ {
+  "id": "pendulum-L2-000",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 2.57 m is released from rest at an angle of 140.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.127690090397717,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.2159695374125676,
+  "params": {
+   "L": 2.57,
+   "amp_deg": 140.0
+  }
+ },
+ {
+  "id": "pendulum-L2-001",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 1.95 m is released from rest at an angle of 148.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.829501406217031,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.8013196673250267,
+  "params": {
+   "L": 1.95,
+   "amp_deg": 148.0
+  }
+ },
+ {
+  "id": "pendulum-L2-002",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 1.88 m is released from rest at an angle of 149.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.793608517729513,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.75058005366504,
+  "params": {
+   "L": 1.88,
+   "amp_deg": 149.0
+  }
+ },
+ {
+  "id": "pendulum-L2-003",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 1.62 m is released from rest at an angle of 165.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.580106463579485,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.5533060361971978,
+  "params": {
+   "L": 1.62,
+   "amp_deg": 165.0
+  }
+ },
+ {
+  "id": "pendulum-L2-004",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 2.41 m is released from rest at an angle of 153.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.683923236174695,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.114252960369857,
+  "params": {
+   "L": 2.41,
+   "amp_deg": 153.0
+  }
+ },
+ {
+  "id": "pendulum-L2-005",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 2.39 m is released from rest at an angle of 147.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.290521011380135,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.101303827525331,
+  "params": {
+   "L": 2.39,
+   "amp_deg": 147.0
+  }
+ },
+ {
+  "id": "pendulum-L2-006",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 2.97 m is released from rest at an angle of 134.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.240098248629328,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.4571927161424747,
+  "params": {
+   "L": 2.97,
+   "amp_deg": 134.0
+  }
+ },
+ {
+  "id": "pendulum-L2-007",
+  "family": "pendulum",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A pendulum consisting of a small heavy bob on a light rigid rod of length 2.77 m is released from rest at an angle of 168.0 degrees from the downward vertical. Take g = 9.81 m/s^2. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 7.7620960523917635,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.33876036442526,
+  "params": {
+   "L": 2.77,
+   "amp_deg": 168.0
+  }
+ },
+ {
+  "id": "pendulum-L3-000",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 17.9 rad^-2 s^-2. It is released from rest at theta = 0.945 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.8549358282780963,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.4850919803795204,
+  "params": {
+   "k": 17.9,
+   "amp_rad": 0.945
+  }
+ },
+ {
+  "id": "pendulum-L3-001",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 2.31 rad^-2 s^-2. It is released from rest at theta = 1.11 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.396005681150603,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.1340324226051255,
+  "params": {
+   "k": 2.31,
+   "amp_rad": 1.11
+  }
+ },
+ {
+  "id": "pendulum-L3-002",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 3.82 rad^-2 s^-2. It is released from rest at theta = 1.04 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.6485658844453495,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.2147572683383743,
+  "params": {
+   "k": 3.82,
+   "amp_rad": 1.04
+  }
+ },
+ {
+  "id": "pendulum-L3-003",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 15.5 rad^-2 s^-2. It is released from rest at theta = 1.16 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.6239153068012826,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.5959306639550768,
+  "params": {
+   "k": 15.5,
+   "amp_rad": 1.16
+  }
+ },
+ {
+  "id": "pendulum-L3-004",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 15.7 rad^-2 s^-2. It is released from rest at theta = 0.886 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.1125337969486493,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.5857329195035614,
+  "params": {
+   "k": 15.7,
+   "amp_rad": 0.886
+  }
+ },
+ {
+  "id": "pendulum-L3-005",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 15.7 rad^-2 s^-2. It is released from rest at theta = 0.923 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.027849343548724,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.5857329195035614,
+  "params": {
+   "k": 15.7,
+   "amp_rad": 0.923
+  }
+ },
+ {
+  "id": "pendulum-L3-006",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 10.9 rad^-2 s^-2. It is released from rest at theta = 0.504 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.457008150980433,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.903121954765824,
+  "params": {
+   "k": 10.9,
+   "amp_rad": 0.504
+  }
+ },
+ {
+  "id": "pendulum-L3-007",
+  "family": "pendulum",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, a pendulum obeys the equation of motion d^2(theta)/dt^2 = -k * theta^3 exactly, where theta is in radians and k = 19.5 rad^-2 s^-2. It is released from rest at theta = 0.938 rad. What is its period of oscillation in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.7904700867431687,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.4228612849188405,
+  "params": {
+   "k": 19.5,
+   "amp_rad": 0.938
+  }
+ },
+ {
+  "id": "pendulum-L4-000",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 143.0 degrees and the lower rod at 168.0 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": "UNPREDICTABLE",
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 143.0,
+   "theta2_deg": 168.0,
+   "t": 30.0,
+   "spread_deg": 127.66866765215309
+  }
+ },
+ {
+  "id": "pendulum-L4-001",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 3.22 degrees and the lower rod at 8.94 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": -7.981532545660542,
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 3.22,
+   "theta2_deg": 8.94,
+   "t": 30.0,
+   "spread_deg": 0.11502640159795874
+  }
+ },
+ {
+  "id": "pendulum-L4-002",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 135.0 degrees and the lower rod at 165.0 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": "UNPREDICTABLE",
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 135.0,
+   "theta2_deg": 165.0,
+   "t": 30.0,
+   "spread_deg": 136.82446972516937
+  }
+ },
+ {
+  "id": "pendulum-L4-003",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 4.93 degrees and the lower rod at 7.34 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": -6.736970663601227,
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 4.93,
+   "theta2_deg": 7.34,
+   "t": 30.0,
+   "spread_deg": 0.094516819203875
+  }
+ },
+ {
+  "id": "pendulum-L4-004",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 119.0 degrees and the lower rod at 139.0 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": "UNPREDICTABLE",
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 119.0,
+   "theta2_deg": 139.0,
+   "t": 30.0,
+   "spread_deg": 174.86394434444566
+  }
+ },
+ {
+  "id": "pendulum-L4-005",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 5.64 degrees and the lower rod at 6.4 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": -6.162320902019047,
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 5.64,
+   "theta2_deg": 6.4,
+   "t": 30.0,
+   "spread_deg": 0.09560313465109971
+  }
+ },
+ {
+  "id": "pendulum-L4-006",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 102.0 degrees and the lower rod at 165.0 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": "UNPREDICTABLE",
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 102.0,
+   "theta2_deg": 165.0,
+   "t": 30.0,
+   "spread_deg": 174.47349768030654
+  }
+ },
+ {
+  "id": "pendulum-L4-007",
+  "family": "pendulum",
+  "level": 4,
+  "level_name": "chaos",
+  "prompt": "A double pendulum consists of two identical point masses and two identical light rigid rods of length 1 m. Take g = 9.81 m/s^2. It is released from rest with the upper rod at 7.67 degrees and the lower rod at 6.41 degrees from the downward vertical (both measured the same way). The initial angles are only known to within +/-0.1 degrees. What is the angle of the lower rod from the downward vertical, in degrees in the range (-180, 180], after exactly 30 s? If the answer cannot be determined to within +/-10 degrees given the measurement uncertainty, answer \"UNPREDICTABLE\".\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": -6.27765315230792,
+  "unit": "deg",
+  "tol": 10.0,
+  "tol_type": "abs",
+  "naive_answer": null,
+  "params": {
+   "theta1_deg": 7.67,
+   "theta2_deg": 6.41,
+   "t": 30.0,
+   "spread_deg": 0.11018448748779974
+  }
+ },
+ {
+  "id": "projectile-L0-000",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 29.4 m/s at 49.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 87.25261038710133,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 87.25261038710129,
+  "params": {
+   "v0": 29.4,
+   "angle": 49.0
+  }
+ },
+ {
+  "id": "projectile-L0-001",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 23.9 m/s at 47.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 58.085480239441104,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 58.085480239440784,
+  "params": {
+   "v0": 23.9,
+   "angle": 47.0
+  }
+ },
+ {
+  "id": "projectile-L0-002",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 34.5 m/s at 41.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 120.14949733125992,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 120.14949733125934,
+  "params": {
+   "v0": 34.5,
+   "angle": 41.0
+  }
+ },
+ {
+  "id": "projectile-L0-003",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 19.7 m/s at 45.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 39.56065239551475,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 39.56065239551478,
+  "params": {
+   "v0": 19.7,
+   "angle": 45.0
+  }
+ },
+ {
+  "id": "projectile-L0-004",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 21.0 m/s at 33.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 41.067639838979176,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 41.067639838979304,
+  "params": {
+   "v0": 21.0,
+   "angle": 33.0
+  }
+ },
+ {
+  "id": "projectile-L0-005",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 18.1 m/s at 29.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 28.321002730051536,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 28.32100273005166,
+  "params": {
+   "v0": 18.1,
+   "angle": 29.0
+  }
+ },
+ {
+  "id": "projectile-L0-006",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 26.4 m/s at 36.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 67.56863910265756,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 67.56863910265751,
+  "params": {
+   "v0": 26.4,
+   "angle": 36.0
+  }
+ },
+ {
+  "id": "projectile-L0-007",
+  "family": "projectile",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A ball is launched from flat ground at 19.4 m/s at 31.0 degrees above the horizontal. Neglect air resistance and take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 33.874225896879196,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 33.874225896879274,
+  "params": {
+   "v0": 19.4,
+   "angle": 31.0
+  }
+ },
+ {
+  "id": "projectile-L1-000",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 11.3 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 9.15 strides per beat, aimed 21.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.957636034591104,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.957636034591108,
+  "params": {
+   "v0": 9.15,
+   "angle": 21.0,
+   "g": 11.3
+  }
+ },
+ {
+  "id": "projectile-L1-001",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 5.07 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 27.6 strides per beat, aimed 43.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 149.88252286507344,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 149.8825228650737,
+  "params": {
+   "v0": 27.6,
+   "angle": 43.0,
+   "g": 5.07
+  }
+ },
+ {
+  "id": "projectile-L1-002",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 11.6 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 13.7 strides per beat, aimed 56.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 15.001994626175971,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 15.00199462617589,
+  "params": {
+   "v0": 13.7,
+   "angle": 56.0,
+   "g": 11.6
+  }
+ },
+ {
+  "id": "projectile-L1-003",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 1.72 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 18.3 strides per beat, aimed 31.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 171.91297637937618,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 171.9129763793756,
+  "params": {
+   "v0": 18.3,
+   "angle": 31.0,
+   "g": 1.72
+  }
+ },
+ {
+  "id": "projectile-L1-004",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 4.89 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 23.5 strides per beat, aimed 34.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 104.71110095797714,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 104.71110095797717,
+  "params": {
+   "v0": 23.5,
+   "angle": 34.0,
+   "g": 4.89
+  }
+ },
+ {
+  "id": "projectile-L1-005",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 2.44 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 16.4 strides per beat, aimed 36.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 104.83449205850387,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 104.83449205850184,
+  "params": {
+   "v0": 16.4,
+   "angle": 36.0,
+   "g": 2.44
+  }
+ },
+ {
+  "id": "projectile-L1-006",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 4.16 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 29.2 strides per beat, aimed 45.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 204.96153846154354,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 204.96153846153845,
+  "params": {
+   "v0": 29.2,
+   "angle": 45.0,
+   "g": 4.16
+  }
+ },
+ {
+  "id": "projectile-L1-007",
+  "family": "projectile",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "On a flat plain where every loose object accelerates toward the ground at 8.81 strides per beat squared, and there is no air at all, a pebble is flicked from the ground at 14.0 strides per beat, aimed 61.0 degrees up from the plain. How many strides from the flicking point does it come back down?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 18.866904295874967,
+  "unit": "strides",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 18.866904295875088,
+  "params": {
+   "v0": 14.0,
+   "angle": 61.0,
+   "g": 8.81
+  }
+ },
+ {
+  "id": "projectile-L2-000",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.319 kg is launched from flat ground at 64.5 m/s at 55.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.0096 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 49.64651285419934,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 398.50726051218913,
+  "params": {
+   "m": 0.319,
+   "c": 0.0096,
+   "v0": 64.5,
+   "angle": 55.0
+  }
+ },
+ {
+  "id": "projectile-L2-001",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.272 kg is launched from flat ground at 58.0 m/s at 39.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00708 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 61.67029988624248,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 335.4218683861898,
+  "params": {
+   "m": 0.272,
+   "c": 0.00708,
+   "v0": 58.0,
+   "angle": 39.0
+  }
+ },
+ {
+  "id": "projectile-L2-002",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.0853 kg is launched from flat ground at 52.1 m/s at 39.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00582 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 28.845899173365627,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 270.65174606603966,
+  "params": {
+   "m": 0.0853,
+   "c": 0.00582,
+   "v0": 52.1,
+   "angle": 39.0
+  }
+ },
+ {
+  "id": "projectile-L2-003",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.221 kg is launched from flat ground at 61.0 m/s at 40.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00831 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 48.486695091221996,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 373.5443067235908,
+  "params": {
+   "m": 0.221,
+   "c": 0.00831,
+   "v0": 61.0,
+   "angle": 40.0
+  }
+ },
+ {
+  "id": "projectile-L2-004",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.116 kg is launched from flat ground at 61.1 m/s at 32.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00535 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 42.93141835982113,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 342.037402811877,
+  "params": {
+   "m": 0.116,
+   "c": 0.00535,
+   "v0": 61.1,
+   "angle": 32.0
+  }
+ },
+ {
+  "id": "projectile-L2-005",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.25 kg is launched from flat ground at 51.4 m/s at 34.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00751 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 52.42023953755301,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 249.7026153324434,
+  "params": {
+   "m": 0.25,
+   "c": 0.00751,
+   "v0": 51.4,
+   "angle": 34.0
+  }
+ },
+ {
+  "id": "projectile-L2-006",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.102 kg is launched from flat ground at 52.2 m/s at 44.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00347 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 46.53991536836288,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 277.5922631085334,
+  "params": {
+   "m": 0.102,
+   "c": 0.00347,
+   "v0": 52.2,
+   "angle": 44.0
+  }
+ },
+ {
+  "id": "projectile-L2-007",
+  "family": "projectile",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A ball of mass 0.451 kg is launched from flat ground at 47.8 m/s at 26.0 degrees above the horizontal. Air resistance is a force of magnitude c*v^2 opposite to the velocity, with c = 0.00414 kg/m. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 92.1421310935294,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 183.53501429875456,
+  "params": {
+   "m": 0.451,
+   "c": 0.00414,
+   "v0": 47.8,
+   "angle": 26.0
+  }
+ },
+ {
+  "id": "projectile-L3-000",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.00117 kg s/m^2. A ball of mass 0.457 kg is launched from flat ground at 64.4 m/s at 57.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 30.36597583664179,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 386.21833733013426,
+  "params": {
+   "m": 0.457,
+   "b": 0.00117,
+   "v0": 64.4,
+   "angle": 57.0
+  }
+ },
+ {
+  "id": "projectile-L3-001",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 3.06e-05 kg s/m^2. A ball of mass 0.13 kg is launched from flat ground at 67.1 m/s at 25.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 120.82728933168472,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 351.58472590655623,
+  "params": {
+   "m": 0.13,
+   "b": 3.06e-05,
+   "v0": 67.1,
+   "angle": 25.0
+  }
+ },
+ {
+  "id": "projectile-L3-002",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.000937 kg s/m^2. A ball of mass 0.725 kg is launched from flat ground at 47.5 m/s at 35.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 47.25945241850536,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 216.1245133178599,
+  "params": {
+   "m": 0.725,
+   "b": 0.000937,
+   "v0": 47.5,
+   "angle": 35.0
+  }
+ },
+ {
+  "id": "projectile-L3-003",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.000233 kg s/m^2. A ball of mass 0.586 kg is launched from flat ground at 58.7 m/s at 27.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 89.58822782021505,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 284.16124030049065,
+  "params": {
+   "m": 0.586,
+   "b": 0.000233,
+   "v0": 58.7,
+   "angle": 27.0
+  }
+ },
+ {
+  "id": "projectile-L3-004",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.000323 kg s/m^2. A ball of mass 0.223 kg is launched from flat ground at 47.6 m/s at 55.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 40.85455935579678,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 217.03546916125177,
+  "params": {
+   "m": 0.223,
+   "b": 0.000323,
+   "v0": 47.6,
+   "angle": 55.0
+  }
+ },
+ {
+  "id": "projectile-L3-005",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.000678 kg s/m^2. A ball of mass 0.694 kg is launched from flat ground at 59.6 m/s at 34.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 59.51997244005721,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 335.72939865830375,
+  "params": {
+   "m": 0.694,
+   "b": 0.000678,
+   "v0": 59.6,
+   "angle": 34.0
+  }
+ },
+ {
+  "id": "projectile-L3-006",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.000965 kg s/m^2. A ball of mass 0.505 kg is launched from flat ground at 41.2 m/s at 56.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 32.93992849964555,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 160.43210622791517,
+  "params": {
+   "m": 0.505,
+   "b": 0.000965,
+   "v0": 41.2,
+   "angle": 56.0
+  }
+ },
+ {
+  "id": "projectile-L3-007",
+  "family": "projectile",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical medium, the drag force on a moving object has magnitude b*v^3, directed opposite to the velocity, with b = 0.00161 kg s/m^2. A ball of mass 0.736 kg is launched from flat ground at 63.0 m/s at 26.0 degrees above the horizontal. Take g = 9.81 m/s^2. How far away, in metres, does it land?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 36.12361102622083,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 318.81902967024257,
+  "params": {
+   "m": 0.736,
+   "b": 0.00161,
+   "v0": 63.0,
+   "angle": 26.0
+  }
+ },
+ {
+  "id": "orbit-L0-000",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 27700 km around a planet of mass 2.34e+24 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 20.360854073271945,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 20.360854073257723,
+  "params": {
+   "M": 2.34e+24,
+   "r_km": 27700.0
+  }
+ },
+ {
+  "id": "orbit-L0-001",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 33900 km around a planet of mass 1.1e+25 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.714154106724937,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 12.714154106716057,
+  "params": {
+   "M": 1.1e+25,
+   "r_km": 33900.0
+  }
+ },
+ {
+  "id": "orbit-L0-002",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 27000 km around a planet of mass 6.6e+24 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 11.666966339994595,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 11.666966339986462,
+  "params": {
+   "M": 6.6e+24,
+   "r_km": 27000.0
+  }
+ },
+ {
+  "id": "orbit-L0-003",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 21000 km around a planet of mass 1.69e+25 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.001149719529675,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 5.001149719526176,
+  "params": {
+   "M": 1.69e+25,
+   "r_km": 21000.0
+  }
+ },
+ {
+  "id": "orbit-L0-004",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 9150 km around a planet of mass 3.13e+24 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.342286992429536,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.342286992427203,
+  "params": {
+   "M": 3.13e+24,
+   "r_km": 9150.0
+  }
+ },
+ {
+  "id": "orbit-L0-005",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 34100 km around a planet of mass 1.54e+25 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 10.840653780106699,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 10.840653780099169,
+  "params": {
+   "M": 1.54e+25,
+   "r_km": 34100.0
+  }
+ },
+ {
+  "id": "orbit-L0-006",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 37600 km around a planet of mass 1.64e+25 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.163095307558704,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 12.163095307550158,
+  "params": {
+   "M": 1.64e+25,
+   "r_km": 37600.0
+  }
+ },
+ {
+  "id": "orbit-L0-007",
+  "family": "orbit",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A satellite moves in a circular orbit of radius 13500 km around a planet of mass 7.19e+24 kg. Use G = 6.674e-11 N m^2 kg^-2. What is its orbital period in hours?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.9520321958928615,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.9520321958901135,
+  "params": {
+   "M": 7.19e+24,
+   "r_km": 13500.0
+  }
+ },
+ {
+  "id": "orbit-L1-000",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 13.2 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 1.15 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 2.1327485889089868,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.1327485889074924,
+  "params": {
+   "mu": 13.2,
+   "d": 1.15
+  }
+ },
+ {
+  "id": "orbit-L1-001",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 16.3 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 7.86 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 34.29413753323159,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 34.294137533207746,
+  "params": {
+   "mu": 16.3,
+   "d": 7.86
+  }
+ },
+ {
+  "id": "orbit-L1-002",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 13.4 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 1.57 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.376579253932739,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.376579253930389,
+  "params": {
+   "mu": 13.4,
+   "d": 1.57
+  }
+ },
+ {
+  "id": "orbit-L1-003",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 29.6 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 2.12 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.5648216293475308,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.564821629345053,
+  "params": {
+   "mu": 29.6,
+   "d": 2.12
+  }
+ },
+ {
+  "id": "orbit-L1-004",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 36.4 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 6.13 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 15.805923961122149,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 15.805923961111098,
+  "params": {
+   "mu": 36.4,
+   "d": 6.13
+  }
+ },
+ {
+  "id": "orbit-L1-005",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 14.8 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 2.88 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 7.982478220895931,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 7.982478220890362,
+  "params": {
+   "mu": 14.8,
+   "d": 2.88
+  }
+ },
+ {
+  "id": "orbit-L1-006",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 45.3 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 6.53 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 15.577599691050919,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 15.577599691040106,
+  "params": {
+   "mu": 45.3,
+   "d": 6.53
+  }
+ },
+ {
+  "id": "orbit-L1-007",
+  "family": "orbit",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A pebble drifts around a heavy core in empty space. The core pulls on it with an acceleration of 24.8 / d^2 (in reaches per beat squared), where d is the distance from the core in reaches. The pebble keeps a fixed distance of 1.24 reaches from the core the whole time. How many beats does one full lap take?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.7421540532993194,
+  "unit": "beats",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.7421540532981001,
+  "params": {
+   "mu": 24.8,
+   "d": 1.24
+  }
+ },
+ {
+  "id": "orbit-L2-000",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 9.12e+24 kg. At its closest approach it is 16700 km from the planet's centre, moving at 7700 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 21.170743374431268,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.82793655152324,
+  "params": {
+   "M": 9.12e+24,
+   "rp_km": 16700.0,
+   "vp": 7700.0
+  }
+ },
+ {
+  "id": "orbit-L2-001",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 1.36e+25 kg. At its closest approach it is 19600 km from the planet's centre, moving at 8860 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 29.859908533273977,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 5.0268846445373185,
+  "params": {
+   "M": 1.36e+25,
+   "rp_km": 19600.0,
+   "vp": 8860.0
+  }
+ },
+ {
+  "id": "orbit-L2-002",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 7.29e+24 kg. At its closest approach it is 16300 km from the planet's centre, moving at 7200 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 38.553584982756874,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 5.207171827657958,
+  "params": {
+   "M": 7.29e+24,
+   "rp_km": 16300.0,
+   "vp": 7200.0
+  }
+ },
+ {
+  "id": "orbit-L2-003",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 1.85e+25 kg. At its closest approach it is 9260 km from the planet's centre, moving at 14400 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.717638635585704,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.3996352839678292,
+  "params": {
+   "M": 1.85e+25,
+   "rp_km": 9260.0,
+   "vp": 14400.0
+  }
+ },
+ {
+  "id": "orbit-L2-004",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 1.35e+24 kg. At its closest approach it is 15900 km from the planet's centre, moving at 2940 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 35.65036381822361,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 11.657705199445925,
+  "params": {
+   "M": 1.35e+24,
+   "rp_km": 15900.0,
+   "vp": 2940.0
+  }
+ },
+ {
+  "id": "orbit-L2-005",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 5.58e+24 kg. At its closest approach it is 10700 km from the planet's centre, moving at 7360 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 10.71380800773278,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.1655037583649404,
+  "params": {
+   "M": 5.58e+24,
+   "rp_km": 10700.0,
+   "vp": 7360.0
+  }
+ },
+ {
+  "id": "orbit-L2-006",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 1.48e+25 kg. At its closest approach it is 17300 km from the planet's centre, moving at 9820 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 23.036305728724578,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.9959731684283044,
+  "params": {
+   "M": 1.48e+25,
+   "rp_km": 17300.0,
+   "vp": 9820.0
+  }
+ },
+ {
+  "id": "orbit-L2-007",
+  "family": "orbit",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "A probe orbits a planet of mass 7.94e+24 kg. At its closest approach it is 15100 km from the planet's centre, moving at 7590 m/s perpendicular to the line to the centre. Use G = 6.674e-11 N m^2 kg^-2. How long, in hours, until it is next at closest approach?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 20.729763780011663,
+  "unit": "hours",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.448764701119738,
+  "params": {
+   "M": 7.94e+24,
+   "rp_km": 15100.0,
+   "vp": 7590.0
+  }
+ },
+ {
+  "id": "orbit-L3-000",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^3, with k = 11.7 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 4.86 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 43.38698543360531,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 19.68073625737098,
+  "params": {
+   "p": 3.0,
+   "k": 11.7,
+   "r": 4.86
+  }
+ },
+ {
+  "id": "orbit-L3-001",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^1.5, with k = 12.2 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 4.77 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.68083719491589,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 18.740342403164203,
+  "params": {
+   "p": 1.5,
+   "k": 12.2,
+   "r": 4.77
+  }
+ },
+ {
+  "id": "orbit-L3-002",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^2.5, with k = 38.2 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 4.57 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 14.5211675681065,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 9.931674715604629,
+  "params": {
+   "p": 2.5,
+   "k": 38.2,
+   "r": 4.57
+  }
+ },
+ {
+  "id": "orbit-L3-003",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^1.5, with k = 11.2 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 2.49 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 5.87245964316639,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 7.376831740453966,
+  "params": {
+   "p": 1.5,
+   "k": 11.2,
+   "r": 2.49
+  }
+ },
+ {
+  "id": "orbit-L3-004",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^2.5, with k = 18.7 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 5.82 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 31.68650126313773,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 20.40062825304992,
+  "params": {
+   "p": 2.5,
+   "k": 18.7,
+   "r": 5.82
+  }
+ },
+ {
+  "id": "orbit-L3-005",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^2.5, with k = 33.2 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 2.8 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 6.609024797203147,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 5.1091408257588045,
+  "params": {
+   "p": 2.5,
+   "k": 33.2,
+   "r": 2.8
+  }
+ },
+ {
+  "id": "orbit-L3-006",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^1.5, with k = 24.2 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 6.16 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.395044080079462,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 19.527347444811237,
+  "params": {
+   "p": 1.5,
+   "k": 24.2,
+   "r": 6.16
+  }
+ },
+ {
+  "id": "orbit-L3-007",
+  "family": "orbit",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, gravity produces an attractive acceleration of magnitude k / r^3, with k = 28.7 in SI-consistent units (r in metres, acceleration in m/s^2). A small moon moves in a perfectly circular orbit of radius 7.2 m around a fixed central body. What is its orbital period in seconds?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 60.800046700459376,
+  "unit": "s",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 22.658839576210873,
+  "params": {
+   "p": 3.0,
+   "k": 28.7,
+   "r": 7.2
+  }
+ },
+ {
+  "id": "cyclotron-L0-000",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 5.93e+05 m/s perpendicular to a uniform magnetic field of 1.49 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.1548544405438905,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.154854456946602,
+  "params": {
+   "v": 593000.0,
+   "B": 1.49
+  }
+ },
+ {
+  "id": "cyclotron-L0-001",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 1.67e+06 m/s perpendicular to a uniform magnetic field of 1.85 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 9.423931730008078,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 9.423931767212277,
+  "params": {
+   "v": 1670000.0,
+   "B": 1.85
+  }
+ },
+ {
+  "id": "cyclotron-L0-002",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 1.78e+06 m/s perpendicular to a uniform magnetic field of 0.148 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 125.55837185190394,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 125.55837234758874,
+  "params": {
+   "v": 1780000.0,
+   "B": 0.148
+  }
+ },
+ {
+  "id": "cyclotron-L0-003",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 1.86e+06 m/s perpendicular to a uniform magnetic field of 0.671 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 28.938619705112412,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 28.938619819357513,
+  "params": {
+   "v": 1860000.0,
+   "B": 0.671
+  }
+ },
+ {
+  "id": "cyclotron-L0-004",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 1.45e+06 m/s perpendicular to a uniform magnetic field of 0.471 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 32.13915718339971,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 32.13915731028,
+  "params": {
+   "v": 1450000.0,
+   "B": 0.471
+  }
+ },
+ {
+  "id": "cyclotron-L0-005",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 1.64e+06 m/s perpendicular to a uniform magnetic field of 1.49 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 11.490659835568291,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 11.49065988093158,
+  "params": {
+   "v": 1640000.0,
+   "B": 1.49
+  }
+ },
+ {
+  "id": "cyclotron-L0-006",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 5.41e+05 m/s perpendicular to a uniform magnetic field of 1.33 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.246518424194581,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.246518440959168,
+  "params": {
+   "v": 541000.0,
+   "B": 1.33
+  }
+ },
+ {
+  "id": "cyclotron-L0-007",
+  "family": "cyclotron",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "A proton moves at 4.31e+05 m/s perpendicular to a uniform magnetic field of 0.154 T. Use proton mass 1.6726e-27 kg and charge 1.602e-19 C. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 29.217559549428213,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 29.217559664774512,
+  "params": {
+   "v": 431000.0,
+   "B": 0.154
+  }
+ },
+ {
+  "id": "cyclotron-L1-000",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 2.0 grains carries 2.33 sparks of charge. It glides at 13.3 paces per tick through a region filled with a uniform 'swirl field' of strength 1.26 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 9.060562672861677,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 9.060562708631378,
+  "params": {
+   "m": 2.0,
+   "q": 2.33,
+   "v": 13.3,
+   "B": 1.26
+  }
+ },
+ {
+  "id": "cyclotron-L1-001",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 3.51 grains carries 0.818 sparks of charge. It glides at 19.1 paces per tick through a region filled with a uniform 'swirl field' of strength 0.674 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 121.59823796792662,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 121.59823844797688,
+  "params": {
+   "m": 3.51,
+   "q": 0.818,
+   "v": 19.1,
+   "B": 0.674
+  }
+ },
+ {
+  "id": "cyclotron-L1-002",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 1.39 grains carries 2.85 sparks of charge. It glides at 17.4 paces per tick through a region filled with a uniform 'swirl field' of strength 1.91 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.443097254435096,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 4.44309727197575,
+  "params": {
+   "m": 1.39,
+   "q": 2.85,
+   "v": 17.4,
+   "B": 1.91
+  }
+ },
+ {
+  "id": "cyclotron-L1-003",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 4.07 grains carries 2.99 sparks of charge. It glides at 8.18 paces per tick through a region filled with a uniform 'swirl field' of strength 2.98 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.7364593239844277,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.7364593387353815,
+  "params": {
+   "m": 4.07,
+   "q": 2.99,
+   "v": 8.18,
+   "B": 2.98
+  }
+ },
+ {
+  "id": "cyclotron-L1-004",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 2.43 grains carries 2.58 sparks of charge. It glides at 17.7 paces per tick through a region filled with a uniform 'swirl field' of strength 1.63 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 10.227564519474807,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 10.22756455985162,
+  "params": {
+   "m": 2.43,
+   "q": 2.58,
+   "v": 17.7,
+   "B": 1.63
+  }
+ },
+ {
+  "id": "cyclotron-L1-005",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 4.57 grains carries 0.556 sparks of charge. It glides at 2.23 paces per tick through a region filled with a uniform 'swirl field' of strength 1.43 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.81770382825269,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 12.817703878854958,
+  "params": {
+   "m": 4.57,
+   "q": 0.556,
+   "v": 2.23,
+   "B": 1.43
+  }
+ },
+ {
+  "id": "cyclotron-L1-006",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 2.01 grains carries 4.44 sparks of charge. It glides at 18.4 paces per tick through a region filled with a uniform 'swirl field' of strength 2.59 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 3.216111852063809,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.2161118647605127,
+  "params": {
+   "m": 2.01,
+   "q": 4.44,
+   "v": 18.4,
+   "B": 2.59
+  }
+ },
+ {
+  "id": "cyclotron-L1-007",
+  "family": "cyclotron",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "A bead of heft 2.93 grains carries 0.67 sparks of charge. It glides at 13.7 paces per tick through a region filled with a uniform 'swirl field' of strength 2.56 swirls, at right angles to the field. In these units the sideways push on the bead is (charge x speed x field strength), always at right angles to its motion, and push = heft x acceleration. The bead traces a circle. What is the radius of that circle in paces?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 23.40310158671277,
+  "unit": "paces",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 23.403101679104477,
+  "params": {
+   "m": 2.93,
+   "q": 0.67,
+   "v": 13.7,
+   "B": 2.56
+  }
+ },
+ {
+  "id": "cyclotron-L2-000",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.905c perpendicular to a uniform magnetic field of 0.406 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 8.93125637253665,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.799459769680322,
+  "params": {
+   "beta": 0.905,
+   "B": 0.406
+  }
+ },
+ {
+  "id": "cyclotron-L2-001",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.88c perpendicular to a uniform magnetic field of 0.201 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 15.711453706185424,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 7.4625270691371055,
+  "params": {
+   "beta": 0.88,
+   "B": 0.201
+  }
+ },
+ {
+  "id": "cyclotron-L2-002",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.904c perpendicular to a uniform magnetic field of 0.0525 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 68.64981031065736,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 29.350022046980275,
+  "params": {
+   "beta": 0.904,
+   "B": 0.0525
+  }
+ },
+ {
+  "id": "cyclotron-L2-003",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.912c perpendicular to a uniform magnetic field of 0.24 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 15.790563177893652,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 6.47713429023514,
+  "params": {
+   "beta": 0.912,
+   "B": 0.24
+  }
+ },
+ {
+  "id": "cyclotron-L2-004",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.9c perpendicular to a uniform magnetic field of 0.12 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 29.328089027095103,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 12.783817678095668,
+  "params": {
+   "beta": 0.9,
+   "B": 0.12
+  }
+ },
+ {
+  "id": "cyclotron-L2-005",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.88c perpendicular to a uniform magnetic field of 0.194 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 16.278361829604503,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 7.7317935097760735,
+  "params": {
+   "beta": 0.88,
+   "B": 0.194
+  }
+ },
+ {
+  "id": "cyclotron-L2-006",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.917c perpendicular to a uniform magnetic field of 0.0149 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 262.9857808671424,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 104.90166273658816,
+  "params": {
+   "beta": 0.917,
+   "B": 0.0149
+  }
+ },
+ {
+  "id": "cyclotron-L2-007",
+  "family": "cyclotron",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron moves at 0.986c perpendicular to a uniform magnetic field of 0.0105 T. Use electron mass 9.109e-31 kg, charge 1.602e-19 C and c = 2.998e8 m/s. What is the radius of its circular path in millimetres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 959.9161069190525,
+  "unit": "mm",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 160.0615140393946,
+  "params": {
+   "beta": 0.986,
+   "B": 0.0105
+  }
+ },
+ {
+  "id": "cyclotron-L3-000",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 6.78 m/s is a universal constant. A particle of mass 2.99 kg and charge 0.555 C moves at 17.8 m/s perpendicular to a uniform field of 1.32 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 10.540073944530874,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 72.64810264810265,
+  "params": {
+   "m": 2.99,
+   "q": 0.555,
+   "v": 17.8,
+   "B": 1.32,
+   "u": 6.78
+  }
+ },
+ {
+  "id": "cyclotron-L3-001",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 18.8 m/s is a universal constant. A particle of mass 4.45 kg and charge 3.17 C moves at 13.7 m/s perpendicular to a uniform field of 1.19 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 30.43329088259391,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 16.161227898099305,
+  "params": {
+   "m": 4.45,
+   "q": 3.17,
+   "v": 13.7,
+   "B": 1.19,
+   "u": 18.8
+  }
+ },
+ {
+  "id": "cyclotron-L3-002",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 9.92 m/s is a universal constant. A particle of mass 4.91 kg and charge 2.81 C moves at 11.2 m/s perpendicular to a uniform field of 1.26 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.184562697517466,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 15.531830763147488,
+  "params": {
+   "m": 4.91,
+   "q": 2.81,
+   "v": 11.2,
+   "B": 1.26,
+   "u": 9.92
+  }
+ },
+ {
+  "id": "cyclotron-L3-003",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 10.2 m/s is a universal constant. A particle of mass 0.516 kg and charge 3.05 C moves at 14.2 m/s perpendicular to a uniform field of 1.93 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.6422506473760278,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.244746453750106,
+  "params": {
+   "m": 0.516,
+   "q": 3.05,
+   "v": 14.2,
+   "B": 1.93,
+   "u": 10.2
+  }
+ },
+ {
+  "id": "cyclotron-L3-004",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 5.11 m/s is a universal constant. A particle of mass 0.578 kg and charge 4.14 C moves at 3.14 m/s perpendicular to a uniform field of 1.84 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.6309890530250456,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.238253518168452,
+  "params": {
+   "m": 0.578,
+   "q": 4.14,
+   "v": 3.14,
+   "B": 1.84,
+   "u": 5.11
+  }
+ },
+ {
+  "id": "cyclotron-L3-005",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 19.1 m/s is a universal constant. A particle of mass 1.44 kg and charge 1.41 C moves at 16.2 m/s perpendicular to a uniform field of 1.08 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 21.294690982096597,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 15.319148936170214,
+  "params": {
+   "m": 1.44,
+   "q": 1.41,
+   "v": 16.2,
+   "B": 1.08,
+   "u": 19.1
+  }
+ },
+ {
+  "id": "cyclotron-L3-006",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 18.9 m/s is a universal constant. A particle of mass 3.4 kg and charge 4.71 C moves at 17.8 m/s perpendicular to a uniform field of 1.14 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 12.707401818851247,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 11.271277982642381,
+  "params": {
+   "m": 3.4,
+   "q": 4.71,
+   "v": 17.8,
+   "B": 1.14,
+   "u": 18.9
+  }
+ },
+ {
+  "id": "cyclotron-L3-007",
+  "family": "cyclotron",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "In a hypothetical universe, the magnetic force on a moving charge has the usual direction (perpendicular to both velocity and field) but magnitude q*v*B*(v/u)^2, where u = 4.62 m/s is a universal constant. A particle of mass 2.61 kg and charge 2.42 C moves at 8.74 m/s perpendicular to a uniform field of 0.531 T. There are no other forces. What is the radius of its circular path in metres?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 4.960245103173035,
+  "unit": "m",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 17.751785964420787,
+  "params": {
+   "m": 2.61,
+   "q": 2.42,
+   "v": 8.74,
+   "B": 0.531,
+   "u": 4.62
+  }
+ },
+ {
+  "id": "quantum_well-L0-000",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 0.612 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.0039673548087849,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.0039673676807648,
+  "params": {
+   "L_nm": 0.612
+  }
+ },
+ {
+  "id": "quantum_well-L0-001",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 1.0 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.3760299489393923,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.37602995376062437,
+  "params": {
+   "L_nm": 1.0
+  }
+ },
+ {
+  "id": "quantum_well-L0-002",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 1.44 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.18134160346228406,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.18134160578733816,
+  "params": {
+   "L_nm": 1.44
+  }
+ },
+ {
+  "id": "quantum_well-L0-003",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 1.6 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.14688669859300657,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.14688670068774387,
+  "params": {
+   "L_nm": 1.6
+  }
+ },
+ {
+  "id": "quantum_well-L0-004",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 1.31 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.21911890239378207,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.21911890551869023,
+  "params": {
+   "L_nm": 1.31
+  }
+ },
+ {
+  "id": "quantum_well-L0-005",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 1.15 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.28433266460434564,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.2843326682499996,
+  "params": {
+   "L_nm": 1.15
+  }
+ },
+ {
+  "id": "quantum_well-L0-006",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 1.02 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.3614282477307429,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.3614282523650753,
+  "params": {
+   "L_nm": 1.02
+  }
+ },
+ {
+  "id": "quantum_well-L0-007",
+  "family": "quantum_well",
+  "level": 0,
+  "level_name": "textbook",
+  "prompt": "An electron is confined in a one-dimensional infinite square well of width 0.826 nm. Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.5511405200838486,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.5511405263568181,
+  "params": {
+   "L_nm": 0.826
+  }
+ },
+ {
+  "id": "quantum_well-L1-000",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 1.01 units can move freely along a line segment of length 3.14 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.4955518185492029,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.4955518249032936,
+  "params": {
+   "m": 1.01,
+   "L": 3.14
+  }
+ },
+ {
+  "id": "quantum_well-L1-001",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 0.925 units can move freely along a line segment of length 2.73 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.7158181686970646,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.7158181778752082,
+  "params": {
+   "m": 0.925,
+   "L": 2.73
+  }
+ },
+ {
+  "id": "quantum_well-L1-002",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 1.92 units can move freely along a line segment of length 3.93 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.16641153020049634,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.16641153257388222,
+  "params": {
+   "m": 1.92,
+   "L": 3.93
+  }
+ },
+ {
+  "id": "quantum_well-L1-003",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 0.904 units can move freely along a line segment of length 4.06 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.33116867247565107,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.33116867624505353,
+  "params": {
+   "m": 0.904,
+   "L": 4.06
+  }
+ },
+ {
+  "id": "quantum_well-L1-004",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 1.36 units can move freely along a line segment of length 1.62 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.3826135453858717,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.3826135611234047,
+  "params": {
+   "m": 1.36,
+   "L": 1.62
+  }
+ },
+ {
+  "id": "quantum_well-L1-005",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 3.97 units can move freely along a line segment of length 3.33 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.11209616883478868,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.1120961704333666,
+  "params": {
+   "m": 3.97,
+   "L": 3.33
+  }
+ },
+ {
+  "id": "quantum_well-L1-006",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 1.87 units can move freely along a line segment of length 4.02 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.1632961822856317,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.16329618437942645,
+  "params": {
+   "m": 1.87,
+   "L": 4.02
+  }
+ },
+ {
+  "id": "quantum_well-L1-007",
+  "family": "quantum_well",
+  "level": 1,
+  "level_name": "disguised",
+  "prompt": "Work in units where the reduced Planck constant equals 1. A particle of mass 4.46 units can move freely along a line segment of length 1.57 units, but the walls at both ends are impenetrable. What is the lowest energy it can have, in these units?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.4488855044441037,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.44888550955365614,
+  "params": {
+   "m": 4.46,
+   "L": 1.57
+  }
+ },
+ {
+  "id": "quantum_well-L2-000",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.376 nm and depth 1.94 eV (potential 0 inside, 1.94 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.8113342782154067,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.6597863411089886,
+  "params": {
+   "L_nm": 0.376,
+   "V0_eV": 1.94
+  }
+ },
+ {
+  "id": "quantum_well-L2-001",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.587 nm and depth 0.697 eV (potential 0 inside, 0.697 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.31127175052931055,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.0913052357020638,
+  "params": {
+   "L_nm": 0.587,
+   "V0_eV": 0.697
+  }
+ },
+ {
+  "id": "quantum_well-L2-002",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.339 nm and depth 1.94 eV (potential 0 inside, 1.94 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.8976377421668161,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 3.272073457075942,
+  "params": {
+   "L_nm": 0.339,
+   "V0_eV": 1.94
+  }
+ },
+ {
+  "id": "quantum_well-L2-003",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.921 nm and depth 0.808 eV (potential 0 inside, 0.808 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.1987700991838041,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.44330556264154214,
+  "params": {
+   "L_nm": 0.921,
+   "V0_eV": 0.808
+  }
+ },
+ {
+  "id": "quantum_well-L2-004",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.579 nm and depth 1.57 eV (potential 0 inside, 1.57 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.4560480902608086,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 1.1216705407770065,
+  "params": {
+   "L_nm": 0.579,
+   "V0_eV": 1.57
+  }
+ },
+ {
+  "id": "quantum_well-L2-005",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.77 nm and depth 0.934 eV (potential 0 inside, 0.934 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.2629704396087254,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.634221544544821,
+  "params": {
+   "L_nm": 0.77,
+   "V0_eV": 0.934
+  }
+ },
+ {
+  "id": "quantum_well-L2-006",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.692 nm and depth 1.96 eV (potential 0 inside, 1.96 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.3906935547178263,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 0.7852541718747377,
+  "params": {
+   "L_nm": 0.692,
+   "V0_eV": 1.96
+  }
+ },
+ {
+  "id": "quantum_well-L2-007",
+  "family": "quantum_well",
+  "level": 2,
+  "level_name": "regime_shift",
+  "prompt": "An electron is in a one-dimensional finite square well of width 0.421 nm and depth 0.841 eV (potential 0 inside, 0.841 eV outside). Use hbar^2/(2 m_e) = 0.0381 eV nm^2. What is its ground-state energy in eV, measured from the bottom of the well?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.46348838927566827,
+  "unit": "eV",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": 2.1215743183610134,
+  "params": {
+   "L_nm": 0.421,
+   "V0_eV": 0.841
+  }
+ },
+ {
+  "id": "quantum_well-L3-000",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 2.03 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.895846612345838,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 2.03
+  }
+ },
+ {
+  "id": "quantum_well-L3-001",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 3.35 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.094594103091396,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 3.35
+  }
+ },
+ {
+  "id": "quantum_well-L3-002",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 2.63 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.9936135624131106,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 2.63
+  }
+ },
+ {
+  "id": "quantum_well-L3-003",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 2.74 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.0100326936861974,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 2.74
+  }
+ },
+ {
+  "id": "quantum_well-L3-004",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 0.772 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.6085303543051023,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 0.772
+  }
+ },
+ {
+  "id": "quantum_well-L3-005",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 3.36 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.0958999115529133,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 3.36
+  }
+ },
+ {
+  "id": "quantum_well-L3-006",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 3.41 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 1.1023942278896242,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 3.41
+  }
+ },
+ {
+  "id": "quantum_well-L3-007",
+  "family": "quantum_well",
+  "level": 3,
+  "level_name": "counterfactual",
+  "prompt": "Work in units where hbar = 1 and the particle mass m = 1. A particle moves in one dimension in the potential V(x) = 1.54 * |x|^3. What is its ground-state energy?\n\nReply ONLY with a JSON object of the form {\"answer\": <number or the string \"UNPREDICTABLE\">, \"confidence\": <number from 0 to 1>, \"method\": \"<one sentence on the formula or approach you used>\"}. Give the answer as a plain number in the requested unit, with no units in the answer field.",
+  "answer": 0.8021277788522645,
+  "unit": "energy units",
+  "tol": 0.05,
+  "tol_type": "rel",
+  "naive_answer": null,
+  "params": {
+   "lambda": 1.54
+  }
+ }
+]
